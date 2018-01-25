@@ -13,6 +13,9 @@ Office hours:  Wednesdays, 3pm - 4pm, and by appointment
 **Grader:**  
 TBD
 
+# Enrollment waiting list
+
+Enrollment for STSCI 4780 is currently full. **If you are hoping to add the course if spaces open up, please email Tom**, so you can get access to course announcements and material in private repositories.
 
 # Course goals
 
