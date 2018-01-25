@@ -17,6 +17,7 @@ TBD
 
 Enrollment for STSCI 4780 is currently full. **If you are hoping to add the course if spaces open up, please email Tom**, so you can get access to course announcements and material in private repositories.
 
+
 # Course goals
 
 Provide students:
@@ -28,9 +29,9 @@ Provide students:
 - An understanding of key differences between Bayesian and frequentist approaches
 
 
-# Course material
+# Course instructional material
 
-Most course material will be available via the GitHub organization hosting this documents. Some material is hosted on the course's Blackboard page, particularly material requiring a CU ID for access (e.g., Lynda.com video links).
+Most course material will be available via the GitHub organization hosting this document. Some material is hosted on the course's Blackboard page, particularly material requiring a CU ID for access (e.g., Lynda.com video links).
 
 Please note that all original course material is *copyrighted* by the instructor ((c) 2015, 2018 by Tom Loredo).  Please do not post it publicly.
 
