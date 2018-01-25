@@ -107,7 +107,7 @@ I've put several other useful books on reserve; see the Blackboard site for a li
 
 # Lecture plan
 
- # | Date   | Topic
+ Lec # | Date   | Topic
 --- | -------- | ------
 1|	Jan	25 | Course intro; Motivation: Models, measurements, arguments
 2|	Jan	30 | Assessing deductive arguments: Propositional logic, Boolean algebra
