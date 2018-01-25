@@ -128,7 +128,7 @@ I have a menu of further topics we'll address as time allows.  If you've encount
 
 # Lab plan
 
-For the first few weeks, the labs will operate somewhat separate from the lectures, aiming to build familiarity with the tools we'll use to implement nontrivial Bayesian computations later in the course.
+For the first few weeks, the labs will operate somewhat separately from the lectures, aiming to build familiarity with the tools we'll use to implement nontrivial Bayesian computations later in the course.
 
  Lab # | Date   | Topic
 ---|--------|------
