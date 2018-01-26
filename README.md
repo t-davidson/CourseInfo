@@ -20,7 +20,7 @@ Enrollment for STSCI 4780 is currently full. **If you are hoping to add the cour
 
 # Course goals
 
-Provide students:
+Provide all students:
 
 - A basic understanding of the principles and foundations underlying the Bayesian approach
 - Practical experience using basic/intermediate Bayesian methods
