@@ -72,7 +72,7 @@ This creates an environment named `bda18` that has access to the full Anaconda d
 
 _**NOTE THE FOLLOWING:**_ You will need to activate the `bda18` environment every time you do work for the course (including when you launch Jupyter notebooks). So memorize the instructions below (but don't execute them right now).
 
-FYI: Activation runs a shell script that changes environment variables in the current shell.  This will sometimes display a lot of environment variable values on your terminal; this is fine (as long as there are no errors).
+FYI: Activation runs a shell script that changes environment variables in the current shell that tell the shell where to find commands and other resources.  This will sometimes display a lot of environment variable values on your terminal; this is fine (as long as there are no errors).
 
 **To activate the environment:**
 
