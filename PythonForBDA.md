@@ -23,6 +23,9 @@ The [Anaconda Distribution main page](https://www.anaconda.com/distribution/) pr
 
 To set up Anaconda for STSCI 4780, follow the flowchart below. You will have to execute **at most one** of the operations in a blue box. You will have to do **all** of the operations in the green boxes. Details for each operation are provided below.  **Don't execute them all**; rather, follow the flowchart, using the instructions below as needed. (The reason for the various options is to make sure that the Anaconda setup for this class doesn't interfere with any other Python distribution you may need for other work.)
 
+*Note:* During parts of the installation or environment definition process, you may see a instructions displayed about setting up `dbus`. This is a Linux application communication tool that we won't be using, so you may safely ignore these instructions.
+
+
 ### Anaconda installation flowchart
 
 ![Anaconda installation flowchart](./AnacondaInstallationFlowchart.png)
