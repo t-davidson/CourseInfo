@@ -11,7 +11,7 @@ loredo@astro.cornell.edu
 Office hours:  Wednesdays, 3pm - 4pm, and by appointment
 
 **Grader:**  
-TBD
+Kyrylo Chernyshov: <kc875@cornell.edu>
 
 # Enrollment waiting list
 
@@ -31,24 +31,20 @@ Provide all students:
 
 # Course instructional material
 
-Most course material will be available via the GitHub organization hosting this document. Some material is hosted on the course's Blackboard page, particularly material requiring a CU ID for access (e.g., Lynda.com video links).
+Most course material will be available via the GitHub organization hosting this document. Some material is hosted on the course's Blackboard page, particularly material requiring a CU netID for access (e.g., Lynda.com video links).
 
-Please note that all original course material is *copyrighted* by the instructor ((c) 2015, 2018 by Tom Loredo).  Please do not post it publicly.
+Please note that all original course material is **copyrighted** by the instructor (&copy; 2015, 2018 by Thomas Loredo).  Please do not post it publicly.
 
 
 # Grading
 
-Assignments (lecture + lab):  40%  
-In-class quick quizzes:  30%  
-Final project:  30%
-
-*Grading will be based mainly on homework assignments* (current plan).
+*Grading will be based almost entirely on homework assignments* (current plan).
 Note that assignments will have varying difficulty, and thus contribute different amounts to your grade.
 The final assignment will be a challenging two-week assignment.
 
 *Everyone has a rough week now and then.* The assignment that has the most negative effect on your grade will be dropped in everyone's final grade calculation (except that the final assignment will not be dropped). If you wish, you may skip an assignment without prejudice, but please do so cautiously.
 
-*Class involvement is important.* As statisticians, clear communication of understanding and uncertainty is something that will be expected of you, and you need to be able to do this verbally as well as in documents. I'll be keeping track of participation (in class, labs, and outside-of-class discussion). I don't care about you giving the "right" or "wrong" answer to a question (indeed, many questions won't have a unique right answer); I just want to see you genuinely engaged with the material, and with the class. Although class participation will not formally enter the grade calculation, for students at a boundary between grades, participation will be a factor influencing the choice of final grade.
+*Class involvement is important.* As statisticians, clear communication of understanding and uncertainty is something that will be expected of you, and you need to be able to do this verbally as well as in documents. I'll be keeping track of participation (in class, labs, and outside-of-class discussion). I don't care about you giving the "right" or "wrong" answer to a question (indeed, many questions won't have a unique right answer); I just want to see you genuinely engaged with the material, and with the class. Although class participation will not formally enter the grade calculation, for students at a boundary between grades, participation will be a factor influencing the assignment of the final grade.
 
 # Textbooks
 
